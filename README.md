@@ -1,8 +1,16 @@
-# Trnasport-automation
-<br>
-this is a automation project built using 
-python as main language
-streamlit for frontend (temperory)
-the main idea is to automate excel sheets 
-technologies like ocr , pdfplumber , openxls will be used
-</br>
+# Transport Automation
+
+This is an automation project built using Python.
+
+## Goal
+
+The main idea is to automate transport-related Excel reporting.
+
+## Planned Technologies
+
+- Python
+- Streamlit (temporary frontend)
+- Pandas
+- OCR
+- PDFPlumber
+- OpenPyXL
